@@ -9,6 +9,13 @@ export default function Home() {
 					size='sm'>
 					Click me
 				</Button>
+				<br />
+				<br />
+				<Button
+					variant='destructive'
+					size='sm'>
+					Click me
+				</Button>
 			</div>
 		</>
 	);
